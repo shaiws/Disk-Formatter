@@ -1,0 +1,6 @@
+{
+  "name": "Drive Formatter",
+  "description": "An offline-first Android external USB flash drive formatting utility and sector integrity verifier supporting FAT32, exFAT, and NTFS with interactive safety checkpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
